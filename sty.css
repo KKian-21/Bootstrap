@@ -1,0 +1,55 @@
+html,
+body,
+header,
+#intro{
+    height: 100%;
+}
+
+#intro{
+    background: url(windows-10.3.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size:cover;
+    -o-background-size:cover;
+    background-size:cover;
+    background-position: 58% 0%;
+}
+
+#fullPageContent{
+    top: 30%;
+    position: absolute;
+}
+
+#ContentFullPage{
+    border-bottom: 1px solid black;
+   
+}
+#ContentIcon{
+    border-bottom: 1px solid black;
+}
+#images{
+    border-bottom: 1px solid black;
+}
+#carousel{
+    border-bottom: 1px solid black;
+}
+#BoxContent{
+    border: 5px solid black;
+}
+#ContentBox{
+     border-bottom: 1px solid black;
+}
+#ImageCard{
+    
+}
+
+
+#content1{
+    text-align: center;
+}
+
+ /* @media (min-width: 1200px) {
+    #BoxContent{
+       margin: 10rem ;
+       
+    }
+}  */
